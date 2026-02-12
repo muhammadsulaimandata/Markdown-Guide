@@ -1,6 +1,6 @@
 # 📝 The Ultimate Markdown Guide
 
-This repository serves as a comprehensive guide and cheatsheet for learning Markdown syntax. I created this while mastering documentation skills for Data Analysis.
+This repository serves as an Introduction to Markdown and a comprehensive guide and mastery cheatsheet for learning Markdown syntax. I created this while mastering documentation skills for Data Analysis.
 
 ## 📚 Table of Contents
 
